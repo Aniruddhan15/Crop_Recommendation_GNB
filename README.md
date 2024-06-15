@@ -10,10 +10,10 @@
 **Gaussian Naive Bayers**
 
 # Accuracy:
-**Training: 0.995**
+**Training: 0.995** <br />
 **Testing: 0.93**
 
-# Web APP:
+# Web APP: <br />
 **Streamlit**
 
 # API:
